@@ -1,0 +1,305 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Te humple remonstrances of Rice op Meredith, op Morgan, Shentilman of Wales; to te Parliaments of Enghelandts, and and [sic] her cood Lord Shenerals. Wherin is set forth, awl her troubles and crievanees [sic], and such a way propounded to te Parliaments, tat tey may (if tey please) kiff her present remeties. Awlso, her makes a tiscovery of awl te chief (wat you call 'ems) incentiaries and tisturbers of te peace of her peloved country of Wales, tat tey may pe prought to condign punishemnt. Togeter, with a fery brave new ballacks or sangs, made py her nown cousins, shan op Shefferies, op Shenkins, &amp;c. a fery exshellent cood Welsh-Boet, was warrant her. Ordered March te first, 1652 (being St Taffy's tay) to pe forthwith printed and published; and appointed to pe read and sung in awl te metheglins and strong-ale houses, throughout Enghelandts and Wales. Topies op Tomas, Cler.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1652</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A74868</idno>
+            <idno type="STC">Wing H3628</idno>
+            <idno type="STC">Thomason E656_2</idno>
+            <idno type="STC">ESTC R206600</idno>
+            <idno type="EEBO-CITATION">99865719</idno>
+            <idno type="PROQUEST">99865719</idno>
+            <idno type="VID">166076</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A74868)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 166076)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 101:E656[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Te humple remonstrances of Rice op Meredith, op Morgan, Shentilman of Wales; to te Parliaments of Enghelandts, and and [sic] her cood Lord Shenerals. Wherin is set forth, awl her troubles and crievanees [sic], and such a way propounded to te Parliaments, tat tey may (if tey please) kiff her present remeties. Awlso, her makes a tiscovery of awl te chief (wat you call 'ems) incentiaries and tisturbers of te peace of her peloved country of Wales, tat tey may pe prought to condign punishemnt. Togeter, with a fery brave new ballacks or sangs, made py her nown cousins, shan op Shefferies, op Shenkins, &amp;c. a fery exshellent cood Welsh-Boet, was warrant her. Ordered March te first, 1652 (being St Taffy's tay) to pe forthwith printed and published; and appointed to pe read and sung in awl te metheglins and strong-ale houses, throughout Enghelandts and Wales. Topies op Tomas, Cler.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Robert Wood, and are to sold at the Royall Exchange in Cornhill,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1652.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The final two pages in verse.</note>
+                  <note>Annotation on Thomason copy: "March 8. 1651"; also the last number of the imprint date has been marked through.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament --  Humor --  Early works to 1800.</term>
+               <term>Political satire, English --  17th century.</term>
+               <term>Wales --  History --  Humor --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Humor --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-11</date>
+            <label>Jayne Henley</label>Sampled and proofread</change>
+         <change>
+            <date>2011-11</date>
+            <label>Jayne Henley</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:166076:1" rendition="simple:additions"/>
+            <p>Te Humple REMONSTRANCES OF Rice op Meredith, op Morgan, Shentil<g ref="char:EOLhyphen"/>man of Wales; To te Parliaments of Enghelandts, and and her cood Lord Shenerals.</p>
+            <p>Wherin is ſet forth; awl her troubles and crievanees, and ſuch a way propounded to te Parliaments, tat tey may (if tey pleaſe) kiff her preſent Remeties.</p>
+            <p>
+               <hi>AWLSO,</hi> Her makes a tiſcovery of awl te chief (wat you call 'ems) Incentiaries and tiſturbers of te peace of her peloved Country of <hi>Wales,</hi> tat tey may pe prought to condign puniſhment.</p>
+            <p>TOGETER, With a fery brave new Ballacks or Sangs, made py her nown couſins, <hi>Shan op Shefferies, op Shenkins, &amp;c.</hi> a fery exſhellent cood <hi>Welſh-Poet,</hi> was war<g ref="char:EOLhyphen"/>rant her.</p>
+            <p>
+               <hi>ORtered</hi> March te firſt, 1652 <hi>(being S<hi rend="sup">t</hi>
+               </hi> Taffy's <hi>tay</hi>) <hi>to pe forthwith printed and publiſhed; And appointed to pe read and ſung in awl te</hi> Me<g ref="char:EOLhyphen"/>theglins <hi>and</hi> Strong-Alſe <hi>houſes, throughout</hi> Enghelandts <hi>and</hi> Wales.</p>
+            <p>Topies op Tomas, Cler.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by ROBERT WOOD, and are to ſold at the <hi>Royall Exchange</hi> in <hi>Cornhill.</hi> 1652.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:166076:2"/>
+            <pb n="3" facs="tcp:166076:2"/>
+            <head>A Remonſtrance of the Shentleman of Wales, to her pleſſed Parliament, and cood Lord Gen. Cromwel, &amp;c.</head>
+            <p>WHereas her Countrey-men in <hi>Wales</hi> have creat cau<g ref="char:EOLhyphen"/>ſes to put up her ſcrolls of papers, to ſhew unto your Honors, that her hath in her Countries many enemies inclining to Superſtition; and a creat deal of foes her do know where, that dwell hard by the Mountains, and in the Vallies, that do ſeek to teſtroy her comm<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>dities and Traf<g ref="char:EOLhyphen"/>ficks, and eat up her bread and ſheeſe out of her wives and children mouths, and to devour all her other proviſions, as all her Coſens can be Witneſſes upon her Oathes and Books. Her do not here make her complaints againſt pip<g ref="char:EOLhyphen"/>ple pabbles, or ſmall matters, but of a creat buſineſs, where<g ref="char:EOLhyphen"/>in her muſt accuſe a little old Jeſuitical Thief, that hath long made havock in her Countries; her I mean that hath little ſmall eyes, long head <hi>(not a Roundhead)</hi> four legs, and a long Tayl: Her do not mean <hi>Robin-Run in the hole;</hi> nor do her complain of her Welch Goat, or Runt, which yields her putter and ſheeſe, and do her much good by milk for her youngeſt ſhild to nouriſh it; yet her will never be fat, but her will be ſtill lean of the Ribs, ſo that you may ſee her haunch bones: Nor do her mean to make Orations and complaints againſt <hi>Lightfoot,</hi> alias <hi>Coging-Wat;</hi> for her can
+<pb n="4" facs="tcp:166076:3"/>chaſe her away with her pupp<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>-<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>og which lies <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> he<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>ſhim<g ref="char:EOLhyphen"/>ney corn<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>,</hi> and make her run in crea<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> f<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ights over the Moun<g ref="char:EOLhyphen"/>tains. Theſe, and many other ſorts of cattels, are not trou<g ref="char:EOLhyphen"/>bleſom to her Countries, but only that a<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rant Rogue and greedy companion. Mr. <hi>Little-Eyes,</hi> who as ſoon as her hath done any miſchief, whip Sir <hi>Davy,</hi> her runs into her hole, &amp; draws her long Tayl after her; and moreover this Mr. <hi>Lit<g ref="char:EOLhyphen"/>tle-eyes</hi> hath ſharp teeth, like the comb which fetch out her other enemy out of her head in the very thickeſt place; as may plainly appear by her knawing her peſt ſheeſes. And this is that cunning pated Raſcal, that do her Countrey-men ſo much wrong, her may well call her a Robber of the Commonwealths Habitations; and all his Anceſtors coming from Pig-houſes, they are now ſo increaſed, that they eat up all her corn in her parns, and will run from her Coſen <hi>ap-Morgans,</hi> to her coſen <hi>ap-Griffins</hi> houſe, and do moſt la<g ref="char:EOLhyphen"/>mentable ſpoils, ſo that all her couſens and countrey-men can ſend out no Hue-and-cry to take theſe her homepred enemies; neither can her without her had <hi>Grim Molkins</hi> eyes, ſee out her enemies by night, but when her be faſt a<g ref="char:EOLhyphen"/>ſleep with her wife and ſhildren, her is at her knaviſh pranks: <hi>O horrible! Cod bleſs her from a Cun I pray Cod.</hi>
+            </p>
+            <p>Her hath ſufficiently deſcribed her enemies condition &amp; malignant nature, for her doth ſpoyl and demoliſh her peſt ſheeſes, having a notable pallat to taſte which is beſt; now what cood ſubjects can deny her enemies to be Rebels and Felons; for they do dayly ſteal, rob and devour, in ſpight of her noſe; and her be a Felon, pecauſe her comes in the night.</p>
+            <p>Nay, more then this, her do ſuſpect her to be a Papiſt, for her hath often been ſeen to run and play, and make dumb adorations about the croſs in the Market place, and when her have ſet her Sacks of parley and Malt to ſell, before her Chapmen could ask her prices, her would be working with
+<pb n="5" facs="tcp:166076:3"/>her Teeth at the bottom of the ſack, and being ſpyed, her would whip away, and run under the market croſs; as it hath bin known that ſome of theſe her enemies, wanting places of harbour to be deliver'd of their young ones, and being too nimble to be carryed to Cages, they have crept into holes in Churches, behind old Croſſes and Images, and there have bred up their poſterities, ſo that ſome of her E<g ref="char:EOLhyphen"/>nemies be naturally Papiſts by their pedigree: What-ſhall her do in theſe caſes? her were peſt ket a protection for her ſheeſes, for all her countrey is in creat fears and up<g ref="char:EOLhyphen"/>roars about theſe her enemies, and her know not what to do if her may be rob'd, and have her coods eaten before her face, and behind her back, and yet have no courſe taken to ſtay and kill her domeſtick Enemies: Her doth therefore for redreſs of theſe grievances, faſhion her Inditement into <hi>Articulus,</hi> alias <hi>Articles;</hi> and then her will make her Arſe tickle; for her knows her enemies to be Traytors, and ploud-ſuckers of her ancient Rights, and old Religion: Therefore, her is reſolved to be fool'd no longer, but to riſe, beat down her Enemy, and ſend her Guts <hi>(mark you that)</hi> to make Fiddleſtrings againſt <hi>Bartholomew</hi> Fair; And her Ambaſſador ſhall come in all her ſtately manner, with Drums, Branches, and Arms of Trees, inſtead of rotten ſilk<g ref="char:EOLhyphen"/>en Banners which will not endure a puff of wind: Alſo her ſhall have natural colours called Leeks, and inſtead of Gowns, her ſhall have frize Jerkins; and inſtead of a horſe, her ſhall ride upon a Red-herring; and inſtead of Sonnets, her ſhall have h<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r natural Language, an eccho, called <hi>Cokoo, Cokoo.</hi>
+            </p>
+            <p>And therefore her deſires are to all Chriſtian Kings and Princes, and to her Parl. and cood Lord Gen. that the Prin<g ref="char:EOLhyphen"/>cipality of <hi>Wales</hi> may be defended from her enemies, &amp; that there may be good ſtore of Mouſe-traps provided, where<g ref="char:EOLhyphen"/>by her foes and enemies may be taken in their own Tevi<g ref="char:EOLhyphen"/>ces.
+<pb n="6" facs="tcp:166076:4"/>and their power leſſoned, their ravenous minds abated, and their fierce ſtomacks qualified; And her further de<g ref="char:EOLhyphen"/>ſires, That her may have 62 <hi>Canterbury</hi> Cats ſpeedily ſent to her Ayd; that theſe her enemies, ſo many as are taken priſoners and alive, may be brought up in ſome conveni<g ref="char:EOLhyphen"/>ent Hamper, and be committed to the <hi>Long</hi> powdring tub, to remain there without Bayl or Mainpriſe.</p>
+            <div type="response">
+               <head>Mr. <hi>Mouſe</hi> his Anſwer to her Countrey-mans Petition.</head>
+               <p>It doth ſeem by this Petition cood Countreyman <hi>Jenkin,</hi> that your Welch bloud is up, you would make a good Laboror to cary Mor<g ref="char:EOLhyphen"/>t<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r and Brick for as ſoon as you are angry, you are preſently a top of the houſ<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>; but as it is ſaid when any th<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ng is found knaw'd, that the M<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uſe hath been here; ſo he <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hat ſhall read this R<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>monſtrance, and find <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>herein ſuch broken Engliſh, and ſo many hers in every line, may very well think that the Welchman hath been here, and hath becotten our of his prains a ſhe Petition. You are afraid of Th<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eves; that is of your own ſhadow; for who more Thief then your ſe<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>f: and for your ſheeſes they are as hard as Millſton<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s, and ſtink of Goats Milk, eſpecially being toſted, ſo that the Devil would ra<g ref="char:EOLhyphen"/>ther pe ſtarv'd then boorded with ſheeſe in <hi>Wales:</hi> Your other ac<g ref="char:EOLhyphen"/>cu<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ations are lies, and ſhew you to pe a right Brittain, tat will make a Mountain of a Mole-hill, as appeareth py your ſetting her coun<g ref="char:EOLhyphen"/>tries wrongs and fears, in her long Pils and Petitions.</p>
+            </div>
+            <div type="response">
+               <head>Te Welch-mans Reply.</head>
+               <p>WHhat toes her anſwer her ſo; compare her end call her Countrey-man, by her precious conſcience, her will ſhew tis her enemy no more favours, ten te Taylor doth her enemy, when her finds her enemy in her neck or poſome: Cots body, call her her Country-mad, oh paſe, oh intollerable, yea more baſer ten her Baſs Viol which hangs in her champer: why her had peſt pring te Frog, and ſuch like Caterpillars, and ſay her is her Country-man as wel as te louſe or mouſe.</p>
+               <pb n="7" facs="tcp:166076:4"/>
+               <p>Her will fetch her long hook with te bike at te end of it her armor, and her beece, and her gantlet, her touble edged ſword or her pack-ſword, and her pum tagger, and all h<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Countrey men ſhall march out with her in warlike pro<g ref="char:EOLhyphen"/>portions, and kill her enemies, if her Betitions pe not re<g ref="char:EOLhyphen"/>garded, wherein her do know is true matters, and of good weights look you tere now: her made not her Betitions to pe laught at, Cots plutra nails; terefore her will make no more ato with Betitions.</p>
+            </div>
+            <div type="protestation">
+               <head>
+                  <hi>Te Broteſtation of</hi> Thomas ap Shink in, ap Morgan, ap Howel, <hi>&amp;c.</hi>
+               </head>
+               <p>IN primis, Her was vow and broteſt her ſelf to live in te true faith, which was always called in te old and ancient time Proteſtants.</p>
+               <p>Her was proteſt againſt Papiſts and Puritants life.</p>
+               <p>Put her was pray to Cot to pleſs her cood Parl. and Lort Shenerals, and tat tey may endeavour to rite h<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r from awl her enemies, tat her may live in her nown Countries in peace, tat her may live tere like a true Shentleman of Wales, and rite a hunting ore te hils, tales, titches and fol<g ref="char:EOLhyphen"/>low te pawling togs wit her pugle horn py her ſide, and if her can catch te Hare, to eat her to ſupper.</p>
+            </div>
+            <div type="song">
+               <head>A new Song made by her Coſin, <hi>&amp;c.</hi>
+               </head>
+               <lg>
+                  <l>THere was a man, was callant man</l>
+                  <l>and her was born where her tid dwell</l>
+                  <l>Pecot her was a faliant man,</l>
+                  <l>as all her Countrey folk can tell.</l>
+                  <l>Was a creat teal of houſe, was a creat teal of land</l>
+                  <l>was hawk was houſe at hoor command, couſhin <hi>Taffie.</hi>
+                  </l>
+                  <l>Her was of a ſhentile ploud</l>
+                  <l>and her come of a creat pig houſe</l>
+                  <l>And every tay wear felſet hood,</l>
+                  <l>and kill both Capon Pig and Cooſe</l>
+                  <l>And every day her made a great pie, <hi>Taffie Taffie,</hi>
+                  </l>
+                  <l>pecot it was true, was tell her no lie, Couſhin <hi>Taffie.</hi>
+                  </l>
+               </lg>
+               <pb n="8" facs="tcp:166076:5"/>
+               <lg>
+                  <l>Unto te poor her tid pequeath</l>
+                  <l>creat teal of fi<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>tle e<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ery tay,</l>
+                  <l>Until one (was called Teach)</l>
+                  <l>tid ſteal tis Shentilman away;</l>
+                  <l>O her creat teal of coods her was pereaven, <hi>Taffy, Taffy,</hi>
+                  </l>
+                  <l>And now her muſt co to twel in heaven, py <hi>Couſin Taffy.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Pehinde her, her tid leave a ſon,</l>
+                  <l>which tid prove a faliant man,</l>
+                  <l>Her kill two Spaniard wit a Cun,</l>
+                  <l>her came not of no coward kinde;</l>
+                  <l>At <hi>Tilbu<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>y</hi> Camp a creat while aco, <hi>Taffy, Taff<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>,</hi>
+                  </l>
+                  <l>Tere her was wit a thouſand more, <hi>Couſin Taffy.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Peaw waw, her was at <hi>Mile end Green,</hi>
+                  </l>
+                  <l>and at <hi>Crenwich</hi> Park pefore her Crace,</l>
+                  <l>And tere her was a faliant man,</l>
+                  <l>her was no coward in tat place.</l>
+                  <l>Tere was creat teal of horſ, tere was creat teal of folk, <hi>taffy, taffy</hi>
+                  </l>
+                  <l>Was a creat teal of Cun make a creat teal of ſmoak, <hi>couſin Taffy.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>At length her cot a foul miſchance,</l>
+                  <l>her aſpie a Lady paſſing by,</l>
+                  <l>Sir <hi>Cupit</hi> prick her wit a Lance,</l>
+                  <l>and ſteal pehinde her cowardly;</l>
+                  <l>And wit her ruſty tuſty Tart, <hi>Taffy, Taffy,</hi>
+                  </l>
+                  <l>Was miſs her skin, but was pierce her heart, <hi>Couſin Taffy.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Put when her had cot tis foul miſchance,</l>
+                  <l>as py her you ſhall hear,</l>
+                  <l>Though <hi>Cupit</hi> prick her wit her lance,</l>
+                  <l>her was not tead; her was fery near:</l>
+                  <l>Her ſend for the Sexton to towl the pell, <hi>Taffy, Taffy,</hi>
+                  </l>
+                  <l>Mark you, doth Sir <hi>Cupit</hi> uſe her well? <hi>Couſin Taffy.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Wel, pecot her was hold her a croat,</l>
+                  <l>tat her had peen petter a kilt her Keeſe,</l>
+                  <l>Her would not pe in Sir <hi>Kupits</hi> coat,</l>
+                  <l>not for a creat teal of toſt<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d Sheeſe;</l>
+                  <l>For if ever Sir <hi>Kupit</hi> come into <hi>Wales, Taffy, Taffy,</hi>
+                  </l>
+                  <l>Was never come pack to preed more prawles, py <hi>Couſin Taffy.</hi>
+                  </l>
+               </lg>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
